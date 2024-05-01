@@ -646,19 +646,19 @@ input:checked + label .description {
 }
 
 .card[for="c1"] {
-    background-image: url("../images/database.jpg");
+    background-image: url("images/database.jpg");
 }
 .card[for="c2"] {
-    background-image: url("../images/ecommerce.jpg");
+    background-image: url("images/ecommerce.jpg");
 }
 .card[for="c3"] {
-    background-image: url("../images/landingpage.png");
+    background-image: url("images/landingpage.png");
 }
 .card[for="c4"] {
-    background-image: url("../images/robotics.jpg");
+    background-image: url("images/robotics.jpg");
 }
 .card[for="c5"] {
-    background-image: url("../images/system.jpg");
+    background-image: url("images/system.jpg");
 }
 
 /* ----- Experience SECTION ----- */
